@@ -5,4 +5,6 @@
 
 ```javascript
 import anHtmlFile from './anHtmlFile.html';
+
+```javascript
 copyCodeBlock(anHtmlFile, options);
